@@ -258,8 +258,8 @@ lsid_regexp = re.compile(r"urn:lsid:[^:]+(:[^:]+){2,3}$", flags=re.I)
 
 orcid_urls = ["http://orcid.org/", "https://orcid.org/"]
 orcid_isni_ranges = [
-    (15_000_000, 35_000_000),
-    (900_000_000_000, 900_100_000_000),
+    (15000000, 35000000),
+    (900000000000, 900100000000),
 ]
 """Valid ORCiD ISNI block ranges.
 
