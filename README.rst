@@ -59,4 +59,4 @@ The IDUtils package is on PyPI so all you need is:
 Note
 ====
 
-Please not this is a fork to support python 2, for INSPIRE legacy.
+Please note this is a fork to support python 2, for INSPIRE legacy.
