@@ -54,4 +54,9 @@ The IDUtils package is on PyPI so all you need is:
 
 .. code-block:: console
 
-    $ pip install idutils
+    $ pip install inspire-idutils
+
+Note
+====
+
+Please not this is a fork to support python 2, for INSPIRE legacy.
